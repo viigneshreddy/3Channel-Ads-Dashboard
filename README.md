@@ -2,7 +2,7 @@ Cross-Channel Ads Dashboard
 A unified analytics dashboard that integrates advertising data from Facebook, Google, and TikTok into a single interactive view. Built with Python and Streamlit.
 
 Live Dashboard
-🔗 View Live Dashboard 
+🔗 [View Live Dashboard ](https://3channel-ads-dashboard-dvnkwptsgjtmulx9htex79.streamlit.app/)
 
 Overview
 This project was built as part of a multi-channel advertising analysis assignment. It takes raw campaign data from three ad platforms, unifies them into a common data model, and visualizes key performance metrics on a single-page dashboard.
